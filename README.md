@@ -39,7 +39,8 @@ Actualmente estoy enfocado en fortalecer mis conocimientos en el desarrollo back
 <div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=MariaVargasDev&show_icons=true&theme=tokyonight&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MariaVargasDev&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com/?user=MariaVargasDev&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaVargasDev&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -49,14 +50,23 @@ Actualmente estoy enfocado en fortalecer mis conocimientos en el desarrollo back
 
 </div>
 
+## 🌱 Actualmente aprendiendo
+
+- Patrones de diseño en PHP
+- Buenas prácticas de arquitectura backend
+- (agregá lo que estés estudiando ahora)
+
+## 🎓 Educación
+
+- **Software Engineering Student** — nombre de tu institución, años cursados
+
 ## 📫 Contacto
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MariaVargasDev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-vargas-559991359)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maripvargas1@gmail.com)
 
 </div>
 
