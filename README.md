@@ -34,19 +34,12 @@ Actualmente estoy enfocado en fortalecer mis conocimientos en el desarrollo back
 - **Proyecto 2** — descripción corta de una línea
 - **Proyecto 3** — descripción corta de una línea
 
-## 📊 Estadísticas
+## 🐍 Actividad de contribuciones
 
 <div align="center">
 
-![Stats](https://github-readme-stats-fast.vercel.app/api?username=MariaVargasDev&show_icons=true&theme=tokyonight&hide_border=true)
-![Streak](https://github-readme-streak-stats-eight.vercel.app/?user=MariaVargasDev&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MariaVargasDev&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=MariaVargasDev&theme=darkhub&no-frame=true&row=1&column=6)
+<!-- Este gráfico se genera solo con una GitHub Action, te explico los pasos abajo -->
+![Snake animation](https://raw.githubusercontent.com/MariaVargasDev/MariaVargasDev/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -58,7 +51,8 @@ Actualmente estoy enfocado en fortalecer mis conocimientos en el desarrollo back
 
 ## 🎓 Educación
 
-- **Software Engineering Student** — Coorporacion Universitaria Iberoamericana
+- **Tecnóloga en Análisis y Desarrollo de Software** — SENA (cursado y aprobado)
+- **Homologación en curso** — Universidad Iberoamericana
 
 ## 📫 Contacto
 
