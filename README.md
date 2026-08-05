@@ -39,7 +39,7 @@ Actualmente estoy enfocado en fortalecer mis conocimientos en el desarrollo back
 <div align="center">
 
 ![Stats](https://github-readme-stats-fast.vercel.app/api?username=MariaVargasDev&show_icons=true&theme=tokyonight&hide_border=true)
-![Streak](https://streak-stats.demolab.com/?user=MariaVargasDev&theme=tokyonight&hide_border=true)
+![Streak](https://github-readme-streak-stats-eight.vercel.app/?user=MariaVargasDev&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MariaVargasDev&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
@@ -58,7 +58,7 @@ Actualmente estoy enfocado en fortalecer mis conocimientos en el desarrollo back
 
 ## 🎓 Educación
 
-- **Software Engineering Student** — nombre de tu institución, años cursados
+- **Software Engineering Student** — Coorporacion Universitaria Iberoamericana
 
 ## 📫 Contacto
 
