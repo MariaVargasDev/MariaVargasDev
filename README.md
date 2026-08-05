@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=María%20Vargas&fontSize=42&fontColor=ffffff&desc=Aspiring%20Backend%20Developer%20%7C%20Laravel&descAlignY=60&animation=fadeIn)
+<!-- BANNER: si tu nombre + subtítulo se ven montados, subí "height" o bajá "fontSize" -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=260&section=header&text=María%20Vargas&fontSize=42&fontColor=ffffff&desc=Aspiring%20Backend%20Developer%20%7C%20Laravel&descSize=18&descAlignY=75&animation=fadeIn)
 
-<!-- Badges -->
+<!-- BADGES DE ROL / TAGLINE -->
 ![Aspiring Backend Developer](https://img.shields.io/badge/-Aspiring%20Backend%20Developer-1e1e2e?style=for-the-badge)
 ![Laravel](https://img.shields.io/badge/-Laravel-1e1e2e?style=for-the-badge)
 ![Software Engineering Student](https://img.shields.io/badge/-Software%20Engineering%20Student-1e1e2e?style=for-the-badge)
@@ -38,18 +38,26 @@ Actualmente estoy enfocado en fortalecer mis conocimientos en el desarrollo back
 
 <div align="center">
 
-<!-- Reemplaza TU_USUARIO por tu usuario real de GitHub -->
-![Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=MariaVargasDev&show_icons=true&theme=tokyonight&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MariaVargasDev&theme=tokyonight&hide_border=true)
 
 </div>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USUARIO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
+![Trophies](https://github-profile-trophy.vercel.app/?username=MariaVargasDev&theme=darkhub&no-frame=true&row=1&column=6)
+
+</div>
+
+## 📫 Contacto
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MariaVargasDev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portfolio.com)
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=100&section=footer)
